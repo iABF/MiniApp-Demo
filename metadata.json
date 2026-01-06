@@ -1,0 +1,5 @@
+{
+  "name": "VinLife Mini App",
+  "description": "A WeChat Mini Program style application for booking wine tasting events and purchasing premium wines.",
+  "requestFramePermissions": []
+}
